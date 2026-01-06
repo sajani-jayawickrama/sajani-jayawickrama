@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 SAJANI JAYAWICKRAMA</a></h1>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=kasun-d-ekanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-d-ekanayaka" /> 
+  <img src="https://komarev.com/ghpvc/?username=sajani-jayawickrama&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-d-ekanayaka" /> 
 </p>
 <!--
 **sajani-jayawickrama/sajani-jayawickrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
