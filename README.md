@@ -1,9 +1,13 @@
-# 👋 Hi, I'm Sajani Jayawickrama
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+SAJANI JAYAWICKRANA</a></h1>
 
 💻 Aspiring Full-Stack Developer | 🎓 ICT Undergraduate | 🚀 Tech Enthusiast  
 
 I’m passionate about building **complete web applications** — from clean, responsive front-end interfaces  
 to efficient, scalable back-end systems. I enjoy learning new technologies and turning ideas into real-world solutions.
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sajani-jayawickrama&label=Profile%20views&color=0e75b6&style=flat" alt="sajani-jayawickrama" /> 
+</p>
 
 ---
 
@@ -69,7 +73,7 @@ to efficient, scalable back-end systems. I enjoy learning new technologies and t
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(Coming Soon)*  
+- 💼 LinkedIn: *(https://linkedin.com/in/sajani-jayawickrama-09880134b)*  
 - 🌐 Portfolio Website: *(Coming Soon)*  
 
 ⭐ Feel free to explore my repositories and follow my journey in **full-stack development**!
