@@ -1,6 +1,7 @@
-# Hi 👋, I'm Sajani Jayawickrama
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+SAJANI JAYAWICKRAMA</a></h1>
 ### 🚀 Aspiring Full-Stack Developer 💻
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sajani-jayawickrama&label=Profile%20views&color=FF69B4&style=flat" alt="sajani-jayawickrama" /> 
 </p>
 
