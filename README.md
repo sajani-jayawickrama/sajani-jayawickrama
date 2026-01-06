@@ -1,41 +1,75 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-SAJANI JAYAWICKRAMA</a></h1>
-### 🚀 Aspiring Full-Stack Developer 💻
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sajani-jayawickrama&label=Profile%20views&color=FF69B4&style=flat" alt="sajani-jayawickrama" /> 
-</p>
+# 👋 Hi, I'm Sajani Jayawickrama
 
+💻 Aspiring Full-Stack Developer | 🎓 ICT Undergraduate | 🚀 Tech Enthusiast  
 
-I am a passionate developer focused on building scalable and user-friendly web applications. I love exploring new technologies and turning complex problems into elegant solutions.
-
-- 🔭 I’m currently working on **Full-Stack Projects**
-- 🌱 I’m currently learning **Next.js & Cloud Computing**
-- 💬 Ask me about **React, Node.js, and Databases**
-- 📫 Reach me at: **[ඔයාගේ Email එක මෙතන ලියන්න]**
+I’m passionate about building **complete web applications** — from clean, responsive front-end interfaces  
+to efficient, scalable back-end systems. I enjoy learning new technologies and turning ideas into real-world solutions.
 
 ---
 
-### 🛠 Tech Stack
+## 🧠 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+- 🎓 BT (Hons) in ICT Undergraduate (KDU)
+- 💻 Interested in **Full-Stack Web Development**
+- 🌐 Love working with both **Front-end & Back-end technologies**
+- 🧠 Enjoy problem-solving & system thinking
+- 🌱 Currently learning **JavaScript, Web Frameworks & Databases**
+- 🎯 Goal: Become a **Professional Full-Stack / Software Developer**
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajani-jayawickrama&show_icons=true&theme=radical" alt="Sajani's GitHub Stats" />
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajani-jayawickrama&theme=radical" alt="Sajani's Streak" />
-</p>
+### 💻 Programming Languages
+- JavaScript  
+- Python (Basic)  
+- Java (Learning)
+
+### 🌐 Front-End
+- HTML5  
+- CSS3  
+- JavaScript  
+- Responsive Web Design
+
+### ⚙️ Back-End
+- Node.js (Learning)  
+- Express.js (Learning)  
+- REST APIs (Basic)
+
+### 🗄️ Database
+- MySQL (Basic)  
+- MongoDB (Learning)
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Linux (Basic)
+
+---
+
+## 🚀 Projects (Coming Soon)
+
+- 🌐 Full-Stack Web Applications  
+- 📊 University ICT Projects  
+- 🧠 CRUD Systems & APIs  
+
+⚡ Repositories will be updated regularly with real projects and improvements.
+
+---
+
+## 📊 GitHub Goals
+
+- ✅ Build a strong **Full-Stack Developer portfolio**
+- ✅ Write **clean, maintainable & scalable code**
+- ✅ Learn **industry-level software development practices**
+- ✅ Contribute to **open-source projects**
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: *(Coming Soon)*  
+- 🌐 Portfolio Website: *(Coming Soon)*  
+
+⭐ Feel free to explore my repositories and follow my journey in **full-stack development**!
